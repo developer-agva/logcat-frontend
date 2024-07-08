@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[9036],{89036:(t,e,n)=>{n.r(e),n.d(e,{default:()=>s});n(47313);var a=n(73538),r=n(46417);const s=function(t){let{chartData:e}=t;return(0,r.jsx)(a.$I,{data:e})}}}]);
