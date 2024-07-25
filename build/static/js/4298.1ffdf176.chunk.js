@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[4298],{74298:(e,d,c)=>{e.exports=c.p+"static/media/ddLoader.791cdb34c2d801c18ef2.gif"}}]);
