@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[1216],{41216:(e,n,r)=>{r.r(n),r.d(n,{default:()=>d});r(47313);var t=r(46417);const d=function(){return(0,t.jsx)("div",{children:"MarketingModel"})}}}]);
