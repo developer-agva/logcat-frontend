@@ -1,0 +1,26 @@
+.logoText {
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    z-index: 50;
+    width: 100%;
+    background: #fff;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem; /* Equivalent to px-3 and py-3 */
+    background-color: #98004c;
+}
+
+@media (min-width: 1024px) {
+    .container {
+        padding-left: 0.625rem; /* Equivalent to lg:pl-3 */
+        padding-right: 1.25rem; /* Equivalent to lg:px-5 */
+    }
+}
