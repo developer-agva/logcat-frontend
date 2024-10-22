@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[2427],{52427:(n,e,t)=>{t.r(e),t.d(e,{default:()=>r});t(9950);var s=t(41881),o=t(28429),c=t(44414);const d=new s.A;const r=function(n){let{component:e,...t}=n;return d.get("ddAdminToken")?(0,c.jsx)(o.sv,{}):(0,c.jsx)(o.C5,{to:"/"})}}}]);
